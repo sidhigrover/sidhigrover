@@ -3,7 +3,7 @@
 
 ![header_](https://user-images.githubusercontent.com/80106274/155994781-7c22a80e-99b6-4e2e-a288-a706e1818289.png)
 
-Thrilled to connect with you here! As a web developer, I'm adept in MERN, Firebase, and other technologies, driven by a passion for crafting engaging and user-friendly web experiences. Eager to learn and grow, I actively seek new opportunities to enhance my skills and contribute to innovative projects.
+Thrilled to connect with you here! As a web developer, I'm adept in MERN and other technologies, driven by a passion for crafting engaging and user-friendly web experiences. Eager to learn and grow, I actively seek new opportunities to enhance my skills and contribute to innovative projects.
 
 - 🔭 I’m currently working on my **DSA Skills**
 - 💬 Ask me about anything related to **MERN Stack** and **DSA**
