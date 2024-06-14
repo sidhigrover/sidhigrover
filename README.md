@@ -6,10 +6,8 @@
 Thrilled to connect with you here! As a web developer, I'm adept in MERN, Firebase, and other technologies, driven by a passion for crafting engaging and user-friendly web experiences. Eager to learn and grow, I actively seek new opportunities to enhance my skills and contribute to innovative projects.
 
 - 🔭 I’m currently working on my **DSA Skills**
-- 🌱 I’m currently learning **Gen AI**
 - 💬 Ask me about anything related to **MERN Stack** and **DSA**
-- 📫 How to reach me: [nandinijindal010@gmail.com](mailto:nandinijindal010@gmail.com)
-- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1ftoNYtpd11UmgOzR0Dfzo9ZkvF0i0d_t/view?usp=sharing)
+- 📫 How to reach me: [sidhigrover@gmail.com](mailto:sidhigrover29@gmail.com)
 
 
 
@@ -18,11 +16,11 @@ Thrilled to connect with you here! As a web developer, I'm adept in MERN, Fireba
 ## Connect with me:
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/nandini-jindal-33a3a7282/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Nandini Jindal" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/nandinijindal010" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nandinijindal010" height="30" width="40" /></a>
-  <a href="https://codeforces.com/profile/nandini805" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="nandini805" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/NandiniJindal" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nandu8054" height="30" width="40" /></a>
-  <a href="https://auth.geeksforgeeks.org/user/nandiniji127q" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="nandiniji127q" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/sidhi-grover-700742262/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sidhi" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/profile/sidhigrover29" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Sidhi" height="30" width="40" /></a>
+  <a href="https://codeforces.com/profile/sidhigrover" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sidhi" height="30" width="40" /></a>
+  <a href="https://leetcode.com/u/sidhigrover/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sidhi" height="30" width="40" /></a>
+  <a href="https://www.geeksforgeeks.org/user/sidhigrzpmf/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sidhi" height="30" width="40" /></a>
 </p>
 
 
