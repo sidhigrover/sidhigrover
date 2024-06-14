@@ -7,7 +7,7 @@ Thrilled to connect with you here! As a web developer, I'm adept in MERN, Fireba
 
 - 🔭 I’m currently working on my **DSA Skills**
 - 💬 Ask me about anything related to **MERN Stack** and **DSA**
-- 📫 How to reach me: [sidhigrover@gmail.com](mailto:sidhigrover29@gmail.com)
+- 📫 How to reach me: [sidhigrover29@gmail.com](mailto:sidhigrover29@gmail.com)
 
 
 
@@ -28,7 +28,7 @@ Thrilled to connect with you here! As a web developer, I'm adept in MERN, Fireba
 ## Languages and Tools:
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/>
+ 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
@@ -40,28 +40,13 @@ Thrilled to connect with you here! As a web developer, I'm adept in MERN, Fireba
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+  
 </p>
 
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
-## 📊 GitHub Stats:
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=nandini80&show_icons=true&locale=en" alt="nandini80" />
-</p>
 
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nandini80&" alt="nandini80" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nandini80&show_icons=true&locale=en&layout=compact" alt="nandini80" />
-</p>
-
-
-<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
 ## Thank you for Visiting!
 
