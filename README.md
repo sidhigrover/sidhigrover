@@ -6,7 +6,6 @@
 Thrilled to connect with you here! As a web developer, I'm adept in MERN and other technologies, driven by a passion for crafting engaging and user-friendly web experiences. Eager to learn and grow, I actively seek new opportunities to enhance my skills and contribute to innovative projects.
 
 - 🔭 I’m currently working on my **DSA Skills**
-- 💬 Ask me about anything related to **MERN Stack** and **DSA**
 - 📫 How to reach me: [sidhigrover29@gmail.com](mailto:sidhigrover29@gmail.com)
 
 
